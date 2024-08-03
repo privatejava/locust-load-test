@@ -1,0 +1,4 @@
+locust==2.30.0
+tinydb==4.8.0
+Faker==26.1.0
+grpcio-tools==1.65.4

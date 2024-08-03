@@ -1,0 +1,1 @@
+locust --headless -f src/load_test.py --host "$1" --users 10 --spawn-rate 10 --run-time 120 --html report.html
